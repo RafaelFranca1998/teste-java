@@ -28,4 +28,4 @@ Após terminar o candidato deverá versionar a prova no git hub e nos mandar o r
 * Enviar para: lhsilva@travelexbank.com.br, msales@travelexbank.com.br, rlisboa@travelexbank.com.br
 
 **Edit:**
-Para testar a aplicação subir o projeto spring e acessar [http://localhost:8080](http://localhost:8080) ou fazer uma chamada na url [http://localhost:8080/peso/imc?peso=79&altura=1,70](http://localhost:8080/peso/imc?peso=79&altura=1,70) e para testar as classes Cliente, Robo e Gerente executar o projeto como teste jUnit
+para testar a aplicação subir o projeto spring e acessar [http://localhost:8080](http://localhost:8080) ou fazer uma chamada na url [http://localhost:8080/peso/imc?peso=79&altura=1,70](http://localhost:8080/peso/imc?peso=79&altura=1,70) e para testar as classes Cliente, Robo e Gerente executar o projeto como teste jUnit
